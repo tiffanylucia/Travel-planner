@@ -647,13 +647,7 @@ a:hover{
       color: white;
     }
 
-    .card.articles button:hover,
-    .card.meditation button:hover,
-    .card.webinars button:hover {
-      background-color: #3007e9; /* Blue hover */
-      color: white;
-    }
-
+    
      body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
